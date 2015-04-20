@@ -13,10 +13,10 @@ EOF
 
 Pod::Spec.new do |s|
   s.name         = 'TMReachability'
-  s.version      = '3.2.2'
+  s.version      = '3.2'
   s.summary      = 'ARC and GCD Compatible Reachability Class for iOS and OS X. Drop in replacement for Apple Reachability.'
 
-  s.homepage     = 'https://github.com/tonymillion/Reachability'
+  s.homepage     = 'https://github.com/AlexandrGraschenkov/Reachability'
   s.authors      = { 'Tony Million' => 'tonymillion@gmail.com' }
   s.social_media_url   = "http://twitter.com/tonymillion"
 
