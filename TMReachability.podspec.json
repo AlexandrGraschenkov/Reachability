@@ -19,7 +19,7 @@
   "frameworks": "SystemConfiguration",
   "requires_arc": true,
   "platforms": {
-    "ios": "6.0",
+    "ios": "8.0",
     "osx": "10.8"
   }
 }
